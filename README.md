@@ -10,3 +10,9 @@ What You'll Learn:
 ✅ Running and testing your chatbot locally
 
 
+
+
+
+![si](https://github.com/user-attachments/assets/9bc42632-19d3-41f2-91aa-8eeea3c6108b)
+
+
